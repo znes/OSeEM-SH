@@ -1,7 +1,7 @@
-# OSeEM-SH
-## Open Sector-coupled Energy Model for Schleswig-Holstein
+# OSeEM-SN
+## Open Sector-coupled Energy Model for Sub-national Energy Systems
 
-OSeEM-SH is a tool constructed using Oemof Tabular to apply cross-sectoral approaches for analyzing 100% renewable and sector-coupled sub-national energy system of Schleswig-Holstein.
+OSeEM-SN is a tool constructed using Oemof Tabular to apply cross-sectoral approaches for analyzing 100% renewable and sector-coupled sub-national energy systems. The model is validated using the case study of Schleswig-Holstein, Germany.
 
 To run the scripts, you need to install Oemof Tabular using the following command- 
 ```
